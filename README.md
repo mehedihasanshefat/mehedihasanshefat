@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">🚀 Software Developer | 💻 MERN & Next.js Expert</h4>
+<h4 align="center">🧑‍💻 Software Engineer | React.js | Next.js | TypeScript | Node.js | PostgreSQL | MongoDB </h4>
 
 ###
 
