@@ -29,8 +29,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 Currently i'm a Software Engineering Apprentice at ByteGrad.
-- 🌱 Expanding skills in **Generative AI Development and DevOps**  
+- 🌱 Expanding skills in **Generative AI Development and System Design**  
 - 💬 Experienced in **React, Next.js, Node.js, Express, MongoDB, JavaScript, TypeScript and MERN stack development**  
 - 📫 Reach me at: **webdev.shefat@gmail.com**  
 - 🎥 YouTube: [@codewithshefat](https://www.youtube.com/@codewithshefat
@@ -41,13 +40,13 @@
 ### 🧩 Tech Stack
 
 #### 🖥️ Frontend
-- HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js 15 • Tailwind CSS • Redux • React Query • React Hook Form • ZOD • ShadCNUI • Framer Motion • GSAP and more ...
+- HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js 15 • Tailwind CSS • Redux Toolkit • React Query • React Hook Form • ZOD • Shadcn/UI • Framer Motion • GSAP and more ...
 
 #### ⚙️ Backend
 - Node.js • Express.js • REST API • Server Actions • PostgreSQL • Prisma ORM • MongoDB • Mongoose • Redis
 
 #### 🧰 Tools & Platforms
-- Git & GitHub • VS Code • Postman • Cloudinary • Vercel • Railway • Firebase
+- Git & GitHub • VS Code • Postman • Cloudinary • Vercel • Aws S3 • Firebase
 
 ---
 
