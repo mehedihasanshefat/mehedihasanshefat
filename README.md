@@ -1,52 +1,69 @@
-<h1 align="center">👋 Hey, I'm Mehedi Hasan Shefat</h1>
+## 👋 Hi, I’m Mehedi Hasan Shefat
 
-###
+**Software Engineer | Full-Stack Developer**
 
-<h4 align="center">🧑‍💻 Software Developer | React.js | Next.js | TypeScript | Node.js | PostgreSQL | MongoDB </h4>
+I’m a results driven **Software Engineer with years of experience** building scalable, production-grade web applications and cloud-native systems. I specialize in **modern JavaScript ecosystems**, **SSR-based architectures**, and **microservices-backed platforms**.
 
-###
-
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mehedihasanshefat/"> 
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    </a>
-  <a href="https://x.com/mhshefat_dev">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <!-- <a href="#">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a> -->
-  <!-- <a href="https://www.youtube.com/@codewithshefat">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a> -->
-  <!-- <a href="#">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
-  </a> -->
-</div>
+I’ve successfully **designed, developed, and deployed 20+ applications**, collaborating with startups, clients—while consistently improving **performance, scalability, and user experience**.
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 Expanding skills in **Generative AI Development and System Design**  
-- 💬 Experienced in **React, Next.js, Node.js, Express, MongoDB, JavaScript, TypeScript and MERN stack development**  
-- 📫 Reach me at: **webdev.shefat@gmail.com**  
-- 🎥 YouTube: [@codewithshefat](https://www.youtube.com/@codewithshefat
-)  
+## Core Expertise
+
+- Full-Stack Web Development (React, Next.js, Node.js)
+- Server-Side Rendering (SSR), ISR & Performance Optimization
+- RESTful APIs & Microservices Architecture using NodeJs
+- Cloud Deployment & Serverless Systems
+- Database Design & Caching Strategies
 
 ---
 
-### 🧩 Tech Stack
+## Tech Stack
 
-#### 🖥️ Frontend
-- HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js 15 • Tailwind CSS • Redux Toolkit • React Query • React Hook Form • ZOD • Shadcn/UI • Framer Motion • GSAP and more ...
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 
-#### ⚙️ Backend
-- Node.js • Express.js • REST API • Server Actions • PostgreSQL • Prisma ORM • MongoDB • Mongoose • Redis
+### Databases & Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
 
-#### 🧰 Tools & Platforms
-- Git & GitHub • VS Code • Postman • Cloudinary • Vercel • Aws S3 • Firebase
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq)
+
+### Frontend Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass)
+
+### Other Languages
+![Python](https://img.shields.io/badge/python-007396?style=flat&logo=python)
+
+---
+
+## Professional Highlights
+
+- 🚀 Built & deployed **5+ production applications**
+- 🤝 Worked with **Multiple developers | Multiple clients**
+- 📈 Delivered measurable improvements in **performance, engagement, and scalability**
+
+---
+
+## GitHub Stats
+
+![Mehedi Hasan Shefat's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehedihasanshefat&theme=dracula)
+![Metrics](https://metrics.lecoq.io/mehedihasanshefat?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia/Dhaka)
+
+---
+
+⭐ If you like my work, consider giving a star — it really helps!
 
 ---
 
@@ -59,25 +76,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihasanshefat&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanshefat&layout=compact&theme=radical)
-
----
-###
-
-<img src="https://raw.githubusercontent.com/mhshefat99/mehedihasanshefat/output/snake.svg" alt="Snake animation" />
-
-###
-
 ### 🧠 Currently Learning
 - **DevOps**
-- **Generative AI Development**
+- **AI Engineering**
 - Advanced **GSAP Animations** with React & Tailwind CSS  
-- **Web Performance Optimization** and SEO in Next.js  
-- **System Design & Clean Architecture** for scalable apps
-
 
 ---
 
